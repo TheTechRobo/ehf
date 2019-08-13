@@ -1,2 +1,2 @@
 # a-good-repo
-Good repository
+I am new to GitHub and I'm using it!
